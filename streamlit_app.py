@@ -59,7 +59,7 @@ def jacobi_method(a, b, tol, max_iter):
     return x, iterations
 
 def main():
-    st.title("Root Finding App")
+    st.title("Root Finding App ANJAY")
 
     st.subheader("Sample Equations:")
     st.write("1. Single equation: x^3 - 2x + 1 = 0")
